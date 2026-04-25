@@ -1,0 +1,13 @@
+label,input,button {
+    margin: 7px; padding: 3px; 
+    padding: 3px;
+    color: black;
+} 
+footer {
+    bottom:0;
+    position: absolute;
+    width: 100%;    
+    height: 40px;
+    background-color:red;
+    text-align: center; 
+}
